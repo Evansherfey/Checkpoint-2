@@ -9,3 +9,4 @@ let planetsunique = Set(planets)
 print(planetsunique)
 
 print(planetsunique.count)
+
